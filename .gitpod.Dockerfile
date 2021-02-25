@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-full:branch-aledbf-base-image
 
 # Gitpod will not rebuild Nushell's dev image unless *some* change is made to this Dockerfile.
 # To force a rebuild, simply increase this counter:
